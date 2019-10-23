@@ -1,0 +1,4 @@
+#!/bin/bash
+# Log out in 15  minutes if the session is idle
+export TMOUT=900
+readonly TMOUT
